@@ -1,0 +1,7 @@
+"# Calculator Web Service" 
+"## A Java-based calculator web service using Maven" 
+"" 
+"### Features:" 
+"- Addition operation" 
+"- Subtraction operation" 
+"- Web service implementation" 
